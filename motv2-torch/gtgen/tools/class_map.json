@@ -1,0 +1,7 @@
+
+{
+    "class_map" : {
+        "1" : "Vehicle",
+        "2" : "Pedestrian"
+    }
+}
